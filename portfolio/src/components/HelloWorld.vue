@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>TEST gfdgdgdfgdgfdf</h1>
+    <h1>TEST GITHUB PAGE </h1>
   </div>
 </template>
 
